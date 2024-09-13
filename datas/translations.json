@@ -1,0 +1,92 @@
+[
+  {
+    "reference": "hello",
+    "value": "hello",
+    "lang": 1
+  },
+  {
+    "reference": "hello",
+    "value": "salut",
+    "lang": 2
+  },
+  {
+    "reference": "hello",
+    "value": "hej",
+    "lang": 3
+  },
+  {
+    "reference": "welcome there!",
+    "value": "welcome there!",
+    "lang": 1
+  },
+  {
+    "reference": "welcome there!",
+    "value": "bienvenue là-bas !",
+    "lang": 2
+  },
+  {
+    "reference": "welcome there!",
+    "value": "välkommen dit!",
+    "lang": 3
+  },
+  {
+    "reference": "add a language",
+    "value": "add a language",
+    "lang": 1
+  },
+  {
+    "reference": "add a language",
+    "value": "ajouter une langue",
+    "lang": 2
+  },
+  {
+    "reference": "add a language",
+    "value": "lägga till ett språk",
+    "lang": 3
+  },
+  {
+    "reference": "identify yourself",
+    "value": "identify yourself",
+    "lang": 1
+  },
+  {
+    "reference": "identify yourself",
+    "value": "identifiez-vous",
+    "lang": 2
+  },
+  {
+    "reference": "identify yourself",
+    "value": "identifiera dig själv",
+    "lang": 3
+  },
+  {
+    "reference": "login",
+    "value": "login",
+    "lang": 1
+  },
+  {
+    "reference": "login",
+    "value": "connexion",
+    "lang": 2
+  },
+  {
+    "reference": "login",
+    "value": "inloggning",
+    "lang": 3
+  },
+  {
+    "reference": "logout",
+    "value": "logout",
+    "lang": 1
+  },
+  {
+    "reference": "logout",
+    "value": "déconnexion",
+    "lang": 2
+  },
+  {
+    "reference": "logout",
+    "value": "utloggning",
+    "lang": 3
+  }
+]
